@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hell's Realty: The Inferno Eviction",
+  "description": "A high-stakes, casino-themed application for generating demonic eviction notices from the Inferno's most prestigious real estate agency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
